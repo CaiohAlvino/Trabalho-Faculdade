@@ -1,0 +1,15 @@
+<Window x:Class="trabalho.programacao.IV.ContadorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Contador de Cliques" Height="200" Width="300">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock x:Name="txtContador" Text="Cliques: 0" 
+                 FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+            <Button Content="Clique" Click="ButtonClique_Click" 
+              HorizontalAlignment="Center" Width="100" Margin="0,0,0,10"/>
+            <Button Content="Finalizar" Click="ButtonFinalizar_Click" 
+              HorizontalAlignment="Center" Width="100"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+<Window x:Class="trabalho.programacao.IV.SomaInputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Soma de Dois Numeros" Height="200" Width="300">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Digite o primeiro numero:"/>
+            <TextBox x:Name="txtNumero1" Margin="0,5,0,10"/>
+            <TextBlock Text="Digite o segundo numero:"/>
+            <TextBox x:Name="txtNumero2" Margin="0,5,0,10"/>
+            <Button Content="Calcular" Click="ButtonCalcular_Click" 
+              HorizontalAlignment="Center" Width="100"/>
+        </StackPanel>
+    </Grid>
+</Window>

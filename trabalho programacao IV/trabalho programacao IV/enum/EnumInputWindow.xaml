@@ -1,0 +1,13 @@
+<Window x:Class="trabalho.programacao.IV.EnumInputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Exibir Descricao de Enum" Height="200" Width="300">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Selecione o tipo de usuário:"/>
+            <ComboBox x:Name="cbTipoUsuario" Margin="0,5,0,10"/>
+            <Button Content="Exibir" Click="ButtonExibir_Click" 
+              HorizontalAlignment="Center" Width="100"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,251 @@
+﻿<Window x:Class="trabalho.programacao.IV.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:trabalho.programacao.IV"
+        mc:Ignorable="d"
+        Title="UMFG Educacional" Height="450" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock 
+                    Grid.Row="0"
+                    FontFamily="Trebuchet MS" 
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    FontSize="18"
+                    FontWeight="SemiBold"
+                    Text="Soma"/>
+
+            <Button x:Name="Soma"
+                    Grid.Row="1"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonSoma_Click" Margin="0,1,0,12">
+                Soma
+            </Button>
+
+            <TextBlock 
+                Grid.Row="2"
+                FontFamily="Trebuchet MS" 
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                FontSize="18"
+                FontWeight="SemiBold"
+                Text="Temperatura Fº"/>
+
+            <Button x:Name="Temperatura"
+                    Grid.Row="3"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonTemperatura_Click" Margin="0,6,0,7">
+                Fahrenheit
+            </Button>
+        </Grid>
+
+        <Grid Grid.Column="1" Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock 
+                 Grid.Row="0"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Aniversario"/>
+
+            <Button x:Name="soma"
+                    Grid.Row="1"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonAniversario_Click" Margin="0,1,0,12">
+                Aniversario
+            </Button>
+
+            <TextBlock 
+                 Grid.Row="2"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Maioridade"/>
+
+            <Button x:Name="Maioridade"
+                     Grid.Row="3"
+                     MaxWidth="200"
+                     Foreground="Chocolate"
+                     Click="ButtonMaioridade_Click" Margin="0,6,0,7">
+                Maioridade
+            </Button>
+        </Grid>
+
+        <Grid Grid.Column="2" Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock 
+                 Grid.Row="0"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Enum"/>
+
+            <Button x:Name="Enum"
+                    Grid.Row="1"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonEnum_Click" Margin="0,1,0,12">
+                Enum
+            </Button>
+
+            <TextBlock 
+                 Grid.Row="2"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Cliques"/>
+
+            <Button x:Name="Cliques"
+                    Grid.Row="3"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonCliques_Click" Margin="0,6,0,7">
+                Cliques
+            </Button>
+        </Grid>
+
+        <Grid Grid.Column="3" Margin="5,5,10,5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock 
+                 Grid.Row="0"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Pagamento Parcelado"/>
+
+            <Button x:Name="PagamentoParcelado"
+                    Grid.Row="1"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonPagamentoParcelado_Click" Margin="0,1,0,12">
+                Pagamento Parcelado
+            </Button>
+
+            <TextBlock 
+                 Grid.Row="2"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Dia da Semana"/>
+
+            <Button x:Name="DiaSemana"
+                    Grid.Row="3"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonDiaSemana_Click" Margin="0,6,0,7">
+                DiaSemana
+            </Button>
+        </Grid>
+
+        <Grid Grid.Column="4" Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock 
+                 Grid.Row="0"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Liga/Desliga"/>
+
+            <Button x:Name="LigaDesliga"
+                    Grid.Row="1"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonLigaDesliga_Click" Margin="0,1,0,12">
+                Liga/Desliga
+            </Button>
+
+            <TextBlock 
+                 Grid.Row="2"
+                 FontFamily="Trebuchet MS" 
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Center"
+                 FontSize="18"
+                 FontWeight="SemiBold"
+                 Text="Sorteio"/>
+
+            <Button x:Name="Sorteio"
+                    Grid.Row="3"
+                    MaxWidth="200"
+                    Foreground="Chocolate"
+                    Click="ButtonSorteio_Click" Margin="0,6,0,7">
+                Sorteio
+            </Button>
+            
+        </Grid>
+        
+    </Grid>
+    
+</Window>

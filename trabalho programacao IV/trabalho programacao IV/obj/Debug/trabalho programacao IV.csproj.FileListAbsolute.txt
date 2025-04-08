@@ -1,0 +1,45 @@
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\trabalho programacao IV.csproj.AssemblyReference.cache
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\aniversario\BirthdayInputWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\aniversario\BirthdayResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\cliques\ContadorResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\cliques\ContadorWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\diaSemana\DiaSemanaInputWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\diaSemana\DiaSemanaResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\enum\EnumInputWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\enum\EnumResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\ligaDesliga\LigaDesligaResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\ligaDesliga\LigaDesligaWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\maioridade\AgeInputWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\maioridade\AgeResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\pagamento\PagamentoInputWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\pagamento\PagamentoResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\soma\SomaInputWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\soma\SomaResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\sorteio\SorteioResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\sorteio\SorteioWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\temperatura\TempInputWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\temperatura\TempResultWindow.baml
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\aniversario\BirthdayInputWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\aniversario\BirthdayResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\cliques\ContadorResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\cliques\ContadorWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\diaSemana\DiaSemanaInputWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\diaSemana\DiaSemanaResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\enum\EnumInputWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\enum\EnumResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\ligaDesliga\LigaDesligaResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\ligaDesliga\LigaDesligaWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\maioridade\AgeInputWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\maioridade\AgeResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\pagamento\PagamentoInputWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\pagamento\PagamentoResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\soma\SomaInputWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\soma\SomaResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\sorteio\SorteioResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\sorteio\SorteioWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\temperatura\TempInputWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\temperatura\TempResultWindow.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\App.g.cs
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\trabalho programacao IV_MarkupCompile.cache
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\trabalho programacao IV_MarkupCompile.lref
+C:\Users\facec.lab03\Desktop\trabalho programacao IV\trabalho programacao IV\obj\Debug\MainWindow.g.cs
